@@ -6,10 +6,10 @@ Description projet
 
 Description jeu
 
-[![](assets/images/Starcheap_Thumbnail.jpg)](https://www.youtube.com/watch?v=fj48e-9iPCw)
+[![](assets/images/Starcheap_Thumbnail.jpg)](https://www.youtube.com/watch?v=fj48e-9iPCw){:target="_blank"}
 
 Information supplémentaire
 
-[Disponible sur itch.io](https://isart-digital.itch.io/starcheap)
+[Disponible sur itch.io](https://isart-digital.itch.io/starcheap){:target="_blank"}
 
 * * *
