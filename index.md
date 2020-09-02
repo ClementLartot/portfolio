@@ -5,7 +5,7 @@ Description projet
 
 Description jeu
 
-![Trailer Starcheap](https://www.youtube.com/watch?v=fj48e-9iPCw)
+[![](assets/images/Starcheap_Thumbnail.jpg)](https://www.youtube.com/watch?v=fj48e-9iPCw)
 
 Information supplémentaire
 
