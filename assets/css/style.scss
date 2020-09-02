@@ -1,8 +1,12 @@
 ---
 ---
 
-* {
+html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font: 4px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @import "{{ site.theme }}";
