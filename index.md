@@ -1,7 +1,7 @@
 ## Starcheap
 ### Développement gameplay et game design
 
-[](assets/images/Starcheap_Thumbnail.jpg)
+![Starcheap thumbnail](assets/images/Starcheap_Thumbnail.jpg)
 
 Description projet
 
@@ -18,7 +18,7 @@ Information supplémentaire
 
 Description projet
 
-[](assets/gifs/Ocean.gif)
+![Ocean gif](assets/gifs/Ocean.gif)
 
 Information supplémentaire
 
@@ -27,7 +27,7 @@ Information supplémentaire
 ## Beat them up
 ### Développement gameplay
 
-[](assets/images/Steamborg_Thumbnail.jpg)
+![Steamborg thumbnail](assets/images/Steamborg_Thumbnail.jpg)
 
 Description projet
 
