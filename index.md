@@ -27,7 +27,7 @@ Information supplémentaire
 ## Beat them up
 ### Développement gameplay
 
-![Steamborg thumbnail](assets/images/Steamborg_Thumbnail.jpg)
+![Steamborg thumbnail](assets/images/Steamborg_Thumbnail.JPG)
 
 Description projet
 
