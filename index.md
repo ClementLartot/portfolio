@@ -3,6 +3,8 @@
 
 ![Starcheap thumbnail](assets/images/Starcheap_Thumbnail.jpg)
 
+[Trailer](https://www.youtube.com/watch?v=fj48e-9iPCw)
+
 Description projet
 
 Description jeu
@@ -38,7 +40,7 @@ Information supplémentaire
 * * *
 
 ## Machine learning
-### Reconnaissance de chiffre écrit à la main
+### Reconnaissance de chiffres écrits à la main
 
 Description projet
 
