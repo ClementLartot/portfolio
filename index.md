@@ -16,7 +16,7 @@ Pour réaliser le jeu, le moteur [Unity](https://unity.com/) a été utilisé av
 Au cours du développement, j'ai dans un premier temps participé au game design, plus particulièrement aux différentes épreuves auxquelles les joueurs allaient être confronté comme l'équilibre de la plateforme sur laquelle les joueurs se trouvent ou encore les différents événements météorologiques. J'ai ensuite créé des prototypes afin de valider ces idées au sein du groupe.
 Dans un second temps, je me suis concentré sur le développement gameplay des features validées, de l'intégration des éléments graphiques, des animations, de la musique et des sons en jeu.
 
-![Starcheap screen 4](assets/images/Screen4Starcheap.png) ![Starcheap screen 1](assets/images/Screen1Starcheap.png) ![Starcheap screen 2](assets/images/Screen2Starcheap.png) ![Starcheap screen 3](assets/images/Screen3Starcheap.png)
+[![Starcheap screen 4](assets/images/Screen4Starcheap.png)](assets/images/Screen4StarcheapLarge.png) [![Starcheap screen 1](assets/images/Screen1Starcheap.png)](assets/images/Screen1StarcheapLarge.png) [![Starcheap screen 2](assets/images/Screen2Starcheap.png)](assets/images/Screen2StarcheapLarge.png) [![Starcheap screen 3](assets/images/Screen3Starcheap.png)](assets/images/Screen3StarcheapLarge.png)
 
 [Disponible sur itch.io](https://isart-digital.itch.io/starcheap){:target="_blank"}
 
