@@ -25,11 +25,16 @@ Dans un second temps, je me suis concentré sur le développement gameplay des f
 ## Simulation d'océan
 ### Reverse engineering
 
-Description projet
-
 ![Ocean gif](assets/gifs/Ocean.gif)
 
-Information supplémentaire
+Ce projet a été réalisé durant mon année de spécialisation Recherche & Développement à [Isart Digital](https://www.isart.fr/) avec un autre programmeur.
+L'objectif était de choisir un jeu, d'en étudier l'une de ces features principales et de la reproduire.
+Comme sujet, nous avons choisi l'océan du jeu *Sea uf Thieves*.
+
+Il nous a fallu réaliser un "état de l'art" afin de connaître les techniques existantes et possibles pour simuler un océan.
+Après avoir exploré les différentes solutions, nous en avons conclu que la technique utilisant la [transformation de Fourier](https://fr.wikipedia.org/wiki/Transformation_de_Fourier) était la plus appropriée.
+Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier [rapide](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide) et [discrète](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_discr%C3%A8te).
+Notre but final était d'avoir un premier rendu d'océan fonctionnel et paramétrable avec lequel il est possible d'intéragir pour rajouter une notion de gameplay.
 
 * * *
 
