@@ -29,7 +29,7 @@ Dans un second temps, je me suis concentré sur le développement gameplay des f
 
 Ce projet a été réalisé durant mon année de spécialisation Recherche & Développement à [Isart Digital](https://www.isart.fr/) avec un autre programmeur.
 L'objectif était de choisir un jeu, d'en étudier l'une de ces features principales et de la reproduire.
-Comme sujet, nous avons choisi l'océan du jeu *Sea uf Thieves*.
+Comme sujet, nous avons choisi l'océan du jeu *Sea of Thieves*.
 
 Il nous a fallu réaliser un "état de l'art" afin de connaître les techniques existantes et possibles pour simuler un océan.
 Après avoir exploré les différentes solutions, nous en avons conclu que la technique utilisant la [transformation de Fourier](https://fr.wikipedia.org/wiki/Transformation_de_Fourier) était la plus appropriée.
