@@ -1,6 +1,8 @@
 $("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
-$("a[href$='.mp4']").addClass('video-popup');
+$("a[href$='OceanSimulation.mp4']").attr('id', 'ocean');
+
+$("a[href$='OceanSimulationWireframe.mp4']").attr('id', 'ocean-wireframe');
 
 $(document).ready(function () {
     $('.image-popup').magnificPopup({
@@ -18,10 +20,19 @@ $(document).ready(function () {
         mainClass: 'mfp-fade'
     });
     
-    $('.video-popup').magnificPopup({
+    $('#ocean').magnificPopup({
         items: {
             type: 'inline',
             src: '<div class="mfp-video"><video controls autoplay name="Simulation océan"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4" type="video/mp4"></video></div>',
+            removalDelay: 300,
+            mainClass: 'mfp-fade'
+        }
+    });
+    
+    $('#ocean-wireframe').magnificPopup({
+        items: {
+            type: 'inline',
+            src: '<div class="mfp-video"><video controls autoplay name="Simulation océan wireframe"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulationWireframe.mp4" type="video/mp4"></video></div>',
             removalDelay: 300,
             mainClass: 'mfp-fade'
         }
