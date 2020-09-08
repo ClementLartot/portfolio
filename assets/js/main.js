@@ -21,7 +21,9 @@ $(document).ready(function () {
     $('video-popup').magnificPopup({
         items: {
             type: 'inline',
-            src: '<video controls autoplay name="Simulation océan"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4" type="video/mp4"></video>'
+            src: '<div class="mfp-video"><video controls autoplay name="Simulation océan"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4" type="video/mp4"></video></div>',
+            removalDelay: 300,
+            mainClass: 'mfp-fade'
         }
     });
 });
