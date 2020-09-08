@@ -23,8 +23,13 @@ $(document).ready(function () {
         iframe: {
             patterns: {
                 local: {
-                    index: 'assets/',
-                    id: '',
+                    index: 'local/',
+                    id: function(url) {
+                        var idx = url.indexOf('assets/');
+                        if (idx != -1)
+                            return url[idx];
+                        return null;
+                    },
                     src: '%id%'
                 }
             }
