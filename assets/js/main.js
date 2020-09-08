@@ -19,20 +19,9 @@ $(document).ready(function () {
     });
     
     $('video-popup').magnificPopup({
-        type: 'video',
-        iframe: {
-            patterns: {
-                local: {
-                    index: 'local/',
-                    id: function(url) {
-                        var idx = url.indexOf('assets/');
-                        if (idx != -1)
-                            return url[idx];
-                        return null;
-                    },
-                    src: '%id%'
-                }
-            }
-        }        
+        items: {
+            type: 'inline',
+            src: '<video controls autoplay name="Simulation océan"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4" type="video/mp4"></video>'
+        }
     });
 });
