@@ -34,7 +34,7 @@ Après avoir exploré les différentes solutions, nous en avons conclu que la te
 Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier [rapide](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide) et [discrète](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_discr%C3%A8te).
 Notre but final était d'avoir un premier rendu d'océan fonctionnel et paramétrable avec lequel il est possible d'intéragir pour rajouter une notion de gameplay.
 
-[![Simulation océan](assets/images/OceanSimulation_Thumbnail.jpg)](https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4)
+[![Simulation océan](assets/images/OceanSimulation_Thumbnail.jpg)](assets/videos/OceanSimulation.mp4) [![Simulation océan wireframe](assets/images/OceanSimulationWireframe_Thumbnail.jpg)](assets/videos/OceanSimulationWireframe.mp4)
 
 * * *
 
