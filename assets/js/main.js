@@ -1,4 +1,5 @@
 $("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+$("a[href$='.mp4']").addClass("video-popup");
 
 $(document).ready(function () {
     $('.image-popup').magnificPopup({
@@ -14,5 +15,18 @@ $(document).ready(function () {
         },
         removalDelay: 300,
         mainClass: 'mfp-fade'
+    });
+    
+    $('video-popup').magnificPopup({
+        type: 'video',
+        iframe: {
+            patterns: {
+                local: {
+                    index: 'assets/',
+                    id: '',
+                    src: '%id%'
+                }
+            }
+        }        
     });
 });
