@@ -1,4 +1,4 @@
-$("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+$("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("video-popup");
 
 $("a[href$='.mp4']").addClass('video-popup');
 
