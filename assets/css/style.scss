@@ -18,3 +18,16 @@
 section {
   max-width: 720px !important;
 }
+
+.mfp-video {
+  position: relative;
+  max-width: 70%;
+  margin: auto;
+}
+
+.mfp-video video {
+  position: relative;
+  width:auto;
+  max-width: 80%;
+  margin: 40px auto;
+}
