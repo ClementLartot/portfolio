@@ -1,4 +1,4 @@
-$("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("video-popup");
+$("a[href$='.jpg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
 $("a[href$='.mp4']").addClass('video-popup');
 
@@ -18,7 +18,7 @@ $(document).ready(function () {
         mainClass: 'mfp-fade'
     });
     
-    $('video-popup').magnificPopup({
+    $('.video-popup').magnificPopup({
         items: {
             type: 'inline',
             src: '<div class="mfp-video"><video controls autoplay name="Simulation océan"><source src="https://clementlartot.github.io/portfolio/assets/videos/OceanSimulation.mp4" type="video/mp4"></video></div>',
