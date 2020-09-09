@@ -4,7 +4,7 @@
 ![Starcheap thumbnail](assets/images/Starcheap_Thumbnail.jpg)
 
 Starcheap est un jeu type *party-game* en co-op local sur PC jouable à 4 joueurs.
-Il a été réalisé durant mon projet de fin d'étude à [Isart Digital](https://www.isart.fr/), au sein d'une équipe de 5 personnes composée de deux Game Artists, deux Game Programmers et un producer.
+Il a été réalisé durant mon projet de fin d'étude à [Isart Digital](https://www.isart.fr/), au sein d'une équipe de 5 personnes composée de deux Game Artists, deux Game Programmers et un Producer.
 
 Votre base s'écroule, vous n’avez que quelques minutes pour vous échapper avant sa destruction !
 Coopérez et utilisez les ressources autour de vous intelligemment afin de construire un vaisseau afin de vous enfuire.
@@ -43,11 +43,13 @@ Notre but final était d'avoir un premier rendu d'océan fonctionnel et paramét
 
 ![Steamborg thumbnail](assets/images/Steamborg_Thumbnail.JPG)
 
-Description projet
+Steamborg est un jeu type *beat them up* sur PC jouable à 1 ou 2 joueurs.
+Il s'agit de mon projet de fin de troisième année à [Isart Digital](https://www.isart.fr/), réalisé dans une équipe de 9 personnes, deux Game Artists, trois Game Designers, trois Game Programmers et un Sound Designer.
 
-Description jeu
+Le jeu a été réalisé sur [Unity](https://unity.com/).
+En collaboration avec les Game Designers, j'ai développé la partie gameplay des personnages jouables.
 
-Information supplémentaire
+**Vidéo**
 
 * * *
 
