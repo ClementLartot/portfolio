@@ -46,18 +46,21 @@ Notre but final était d'avoir un premier rendu d'océan fonctionnel et paramét
 Steamborg est un jeu type *beat them up* sur PC jouable à 1 ou 2 joueurs.
 Il s'agit de mon projet de fin de troisième année à [Isart Digital](https://www.isart.fr/), réalisé dans une équipe de 9 personnes, deux Game Artists, trois Game Designers, trois Game Programmers et un Sound Designer.
 
-[![Steamborg screen 1](assets/images/Screen1Steamborg.png)](assets/images/Screen1SteamborgLarge.png) [![Steamborg screen 3](assets/images/Screen3Steamborg.png)](assets/images/Screen3SteamborgLarge.png) [![Steamborg screen 2](assets/images/Screen2Steamborg.png)](assets/images/Screen2SteamborgLarge.png) [![Steamborg screen 4](assets/images/Screen4Steamborg.png)](assets/images/Screen4SteamborgLarge.png)
+*Vidéo*
 
 Le jeu a été réalisé sur [Unity](https://unity.com/) avec [FMOD](https://www.fmod.com/) pour le son et [Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840) pour les animations.
 En collaboration avec les Game Designers, j'ai développé toute la partie gameplay des personnages jouables et les intelligences artificielles. Je me suis également occupé de l'intégration des animations et de l'interface utilisateur.
 
-**Vidéo**
+[![Steamborg screen 1](assets/images/Screen1Steamborg.png)](assets/images/Screen1SteamborgLarge.png) [![Steamborg screen 3](assets/images/Screen3Steamborg.png)](assets/images/Screen3SteamborgLarge.png) [![Steamborg screen 2](assets/images/Screen2Steamborg.png)](assets/images/Screen2SteamborgLarge.png) [![Steamborg screen 4](assets/images/Screen4Steamborg.png)](assets/images/Screen4SteamborgLarge.png)
 
 * * *
 
 ## Machine learning
 ### Reconnaissance de chiffres écrits à la main
 
-Description projet
+![Mnist data](assets/images/mnist.jpeg)
 
-Information supplémentaire
+Le sujet du [Machine learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique) et du [Deep learning](https://fr.wikipedia.org/wiki/Apprentissage_profond) m'ont toujours beaucoup intéressé, je me suis donc lancé dans ce petit projet sur mon temps libre. Le but était de créer un modèle capable de reconnaître des chiffres écrits à la main. Le projet est entièrement codé en C++ et utilise [Qt](https://www.qt.io/).
+Pour pouvoir entraîner mon modèle, je devais disposer d'un grand nombre de chiffres. Je me suis servi d'une [base de données](http://yann.lecun.com/exdb/mnist/) couramment utilisé pour ce genre de projet.
+
+*gif*
