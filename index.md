@@ -34,7 +34,7 @@ Nous avons choisi l'océan du jeu [Sea of Thieves](https://www.seaofthieves.com/
 #### Déroulé et rôle dans le projet
 Il nous a fallu réaliser un "état de l'art" afin de connaître les techniques existantes et possibles pour simuler un océan.
 Après avoir exploré les différentes solutions, nous en avons conclu que la technique utilisant la [transformation de Fourier](https://fr.wikipedia.org/wiki/Transformation_de_Fourier) était la plus appropriée.
-Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier rapide ([FFT](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)) et discrète ([TFD](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)).
+Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier rapide ([FFT](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)) et discrète ([TFD](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_discr%C3%A8te)).
 Notre but était d'avoir un premier rendu d'océan fonctionnel et paramétrable avec lequel il était possible d'intéragir pour ajouter une notion de gameplay.
 
 [![Simulation océan](assets/images/OceanSimulation_Thumbnail.jpg)](assets/videos/OceanSimulation.mp4) [![Simulation océan wireframe](assets/images/OceanSimulationWireframe_Thumbnail.jpg)](assets/videos/OceanSimulationWireframe.mp4)
