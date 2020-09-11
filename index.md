@@ -49,8 +49,6 @@ Notre but était d'avoir un premier rendu d'océan fonctionnel et paramétrable 
 Steamborg est un jeu type *beat them up* sur PC jouable à 1 ou 2 joueurs.
 Il s'agit de mon projet de fin de troisième année à [Isart Digital](https://www.isart.fr/), réalisé dans une équipe de 9 personnes, 2 Game Artists, 3 Game Designers, 3 Game Programmers et un Sound Designer.
 
-*Vidéo*
-
 #### Déroulé et rôle dans le projet
 Le jeu a été réalisé sur [Unity](https://unity.com/) avec [FMOD](https://www.fmod.com/) pour le son et [Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840) pour les animations.
 En collaboration avec les Game Designers, j'ai développé toute la partie gameplay des personnages jouables et les intelligences artificielles. Je me suis également occupé de l'intégration des animations et de l'interface utilisateur.
