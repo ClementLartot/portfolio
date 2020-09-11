@@ -10,7 +10,7 @@ Votre base s'écroule, vous n’avez que quelques minutes pour vous échapper av
 Coopérez et utilisez les ressources autour de vous intelligemment afin de construire un vaisseau afin de vous enfuire.
 Des événements météorologiques viendront déstabiliser l’équilibre de la plateforme sur laquelle vous êtes, tout en vous apportant de précieuses ressources.
 
-[Retrouvez ici le trailer du jeu.](https://www.youtube.com/watch?v=fj48e-9iPCw)
+[![Starcheap trailer](assets/images/Starcheap_Thumbnail.jpg)](assets/videos/StarcheapTrailer.mp4)
 
 Pour réaliser le jeu, le moteur [Unity](https://unity.com/) a été utilisé avec une intégration de [FMOD](https://www.fmod.com/).
 Au cours du développement, j'ai dans un premier temps participé au game design, plus particulièrement aux différentes épreuves auxquelles les joueurs allaient être confronté comme l'équilibre de la plateforme sur laquelle les joueurs se trouvent ou encore les différents événements météorologiques. J'ai ensuite créé des prototypes afin de valider ces idées au sein du groupe.
