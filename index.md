@@ -15,7 +15,7 @@ Des événements météorologiques viendront déstabiliser l’équilibre de la 
 
 #### Déroulé et rôle dans le projet
 Pour réaliser le jeu, le moteur [Unity](https://unity.com/) a été utilisé avec une intégration de [FMOD](https://www.fmod.com/).
-Au cours du développement, j'ai tout d'abord participé au game design, plus particulièrement aux différentes épreuves auxquelles les joueurs allaient être confrontées tel que l'équilibre de la plateforme sur laquelle les joueurs se trouvent ou encore les différents événements météorologiques. J'ai ensuite créé des prototypes afin de valider ces idées au sein du groupe.
+Au cours du développement, j'ai tout d'abord participé au game design, plus particulièrement aux différentes épreuves auxquelles les joueurs allaient être confrontés tel que l'équilibre de la plateforme sur laquelle les joueurs se trouvent ou encore les différents événements météorologiques. J'ai ensuite créé des prototypes afin de valider ces idées au sein du groupe.
 Par la suite, je me suis concentré sur le développement gameplay des features validées, sur l'intégration des éléments graphiques, des animations, de la musique et des sons du jeu.
 
 [![Starcheap screen 4](assets/images/Screen4Starcheap.png)](assets/images/Screen4StarcheapLarge.png) [![Starcheap screen 1](assets/images/Screen1Starcheap.png)](assets/images/Screen1StarcheapLarge.png) [![Starcheap screen 2](assets/images/Screen2Starcheap.png)](assets/images/Screen2StarcheapLarge.png) [![Starcheap screen 3](assets/images/Screen3Starcheap.png)](assets/images/Screen3StarcheapLarge.png)
@@ -34,7 +34,7 @@ Nous avons choisi l'océan du jeu [Sea of Thieves](https://www.seaofthieves.com/
 #### Déroulé et rôle dans le projet
 Il nous a fallu réaliser un "état de l'art" afin de connaître les techniques existantes et possibles pour simuler un océan.
 Après avoir exploré les différentes solutions, nous en avons conclu que la technique utilisant la [transformation de Fourier](https://fr.wikipedia.org/wiki/Transformation_de_Fourier) était la plus appropriée.
-Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier rapide ([FFT](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)) et discrète ([TFD(https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)]).
+Nous avons donc créé un prototype sous [Unity](https://unity.com/) avec un premier modèle exploitant la transformation de Fourier rapide ([FFT](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)) et discrète ([TFD](https://fr.wikipedia.org/wiki/Transformation_de_Fourier_rapide)).
 Notre but était d'avoir un premier rendu d'océan fonctionnel et paramétrable avec lequel il était possible d'intéragir pour ajouter une notion de gameplay.
 
 [![Simulation océan](assets/images/OceanSimulation_Thumbnail.jpg)](assets/videos/OceanSimulation.mp4) [![Simulation océan wireframe](assets/images/OceanSimulationWireframe_Thumbnail.jpg)](assets/videos/OceanSimulationWireframe.mp4)
