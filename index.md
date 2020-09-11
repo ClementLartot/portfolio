@@ -1,7 +1,7 @@
 ## Starcheap
 ### Développement gameplay et game design
 
-![Starcheap thumbnail](assets/images/Starcheap_Thumbnail.jpg)
+![Starcheap thumbnail](assets/images/Starcheap_Cover.jpg)
 
 Starcheap est un jeu type *party-game* en co-op local sur PC jouable à 4 joueurs.
 Il a été réalisé durant mon projet de fin d'étude à [Isart Digital](https://www.isart.fr/), au sein d'une équipe de 5 personnes composée de deux Game Artists, deux Game Programmers et un Producer.
@@ -41,7 +41,7 @@ Notre but final était d'avoir un premier rendu d'océan fonctionnel et paramét
 ## Beat them up
 ### Développement gameplay
 
-![Steamborg thumbnail](assets/images/Steamborg_Thumbnail.JPG)
+![Steamborg thumbnail](assets/images/Steamborg_Cover.JPG)
 
 Steamborg est un jeu type *beat them up* sur PC jouable à 1 ou 2 joueurs.
 Il s'agit de mon projet de fin de troisième année à [Isart Digital](https://www.isart.fr/), réalisé dans une équipe de 9 personnes, deux Game Artists, trois Game Designers, trois Game Programmers et un Sound Designer.
