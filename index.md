@@ -62,5 +62,6 @@ En collaboration avec les Game Designers, j'ai développé toute la partie gamep
 
 Le sujet du [Machine learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique) et du [Deep learning](https://fr.wikipedia.org/wiki/Apprentissage_profond) m'ont toujours beaucoup intéressé, je me suis donc lancé dans ce petit projet sur mon temps libre. Le but était de créer un modèle capable de reconnaître des chiffres écrits à la main. Le projet est entièrement codé en C++ et utilise [Qt](https://www.qt.io/).
 Pour pouvoir entraîner mon modèle, je devais disposer d'un grand nombre de chiffres. Je me suis servi d'une [base de données](http://yann.lecun.com/exdb/mnist/) couramment utilisé pour ce genre de projet.
+Il est possible de créer un nouveau modèle et de l'enregistrer dans un fichier binaire. On peut ensuite utiliser le modèle qui vient d'être créé ou en charger un et lui présenter des chiffres à deviner.
 
-*gif*
+![Machine learning gif](assets/gifs/Mia.gif)
